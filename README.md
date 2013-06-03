@@ -1,4 +1,29 @@
-jquery-hover-transform-plugin
-=============================
-
 jQuery CSS3 Hover Transform Plugin
+===================================
+
+jQuery Plugin: jQuery Hover Transform
+Author: Sam Deering
+Website: samdeering.com
+
+@filename: jquery.hover.transform.js
+@Requires: jQuery v1.9.1 or later
+@version: 1.0  19-FEB-2013
+@browsers: All modern browsers Chrome, Firefox, Safari, IE. Old browsers IE9, IE8.
+
+Features:
+    + CSS3 Transition Tranforms on Hover triggered by JavaScript.
+    + Cross Browser supported by IE8, IE9 and modern browsers compliant with CSS3 transitionopts.
+    + Keyboard tab to active element captured and triggers hover state.
+    + Specify child elements for CSS3 transformation effects on parent hover.
+    + CSS transitions specified in CSS so they can be anything you want! :)
+
+Coming soon:
+    - Auto tabindex injection
+    - GPU enhanced transitions
+
+Demos:
+    - Single elements scale - http://jsfiddle.net/YxHah/
+    - Single elements scale & rotate - http://jsfiddle.net/kWqDL/
+    - Single elements A few experiments - http://jsfiddle.net/wst62/
+    - Container element triggers scale on child - http://jsfiddle.net/FHyuC/
+    - One child element triggers another - http://jsfiddle.net/aHjD5/
