@@ -3,14 +3,15 @@ jQuery CSS3 Hover Transform Plugin
 
 A jQuery Plugin which handles CSS3 hover tranforms that work cross browser IE8+.
 
+Author: Sam Deering (samdeering.com)
 
 Demos:
 ===================================
-* Single elements scale - http://jsfiddle.net/YxHah/
-* Single elements scale & rotate - http://jsfiddle.net/kWqDL/
-* Single elements A few experiments - http://jsfiddle.net/wst62/
-* Container element triggers scale on child - http://jsfiddle.net/FHyuC/
-* One child element triggers another - http://jsfiddle.net/aHjD5/
+* Single elements scale - http://jsfiddle.net/aEPsh/
+* Single elements scale & rotate - http://jsfiddle.net/wC9Wk/
+* Single elements A few experiments - http://jsfiddle.net/sD5dP/
+* Container element triggers scale on child - http://jsfiddle.net/MH2AS/
+* One child element triggers another - http://jsfiddle.net/LuNgy/
 
 
 Features:
@@ -26,6 +27,3 @@ Todo:
 ===================================
 * Auto tabindex injection
 * GPU enhanced transitions
-
-
-Author: Sam Deering (samdeering.com)
