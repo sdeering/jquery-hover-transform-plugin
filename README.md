@@ -12,7 +12,8 @@ Demos:
 * Single elements A few experiments - http://jsfiddle.net/wst62/
 * Container element triggers scale on child - http://jsfiddle.net/FHyuC/
 * One child element triggers another - http://jsfiddle.net/aHjD5/
-* 
+
+
 Features:
 ===================================
 * CSS3 Transition Tranforms on Hover triggered by JavaScript.
@@ -20,6 +21,7 @@ Features:
 * Keyboard tab to active element captured and triggers hover state.
 * Specify child elements for CSS3 transformation effects on parent hover.
 * CSS transitions specified in CSS so they can be anything you want! :)
+
 
 Todo:
 ===================================
