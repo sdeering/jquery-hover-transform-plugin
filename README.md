@@ -1,9 +1,8 @@
 jQuery CSS3 Hover Transform Plugin
 ===================================
 
-jQuery Plugin: jQuery Hover Transform
-Author: Sam Deering
-Website: samdeering.com
+A jQuery Plugin which handles CSS3 hover tranforms that work cross browser IE8+.
+
 
 Demos:
 ===================================
@@ -27,3 +26,6 @@ Todo:
 ===================================
 * Auto tabindex injection
 * GPU enhanced transitions
+
+
+Author: Sam Deering (samdeering.com)
