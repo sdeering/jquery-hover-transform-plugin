@@ -3,7 +3,7 @@ jQuery CSS3 Hover Transform Plugin
 
 A lightweight (2kb min) jQuery Plugin which handles CSS3 hover tranforms that work cross browser IE8+. Works on all modern browsers Chrome, Firefox, Safari, IE. Old browsers IE9, IE8.
 
-Author: Sam Deering (samdeering.com)
+Author: Sam Deering (http://samdeering.com)
 
 Demos:
 ===================================
